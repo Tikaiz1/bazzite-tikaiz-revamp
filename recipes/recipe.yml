@@ -29,6 +29,7 @@ modules:
       - mpv
       - dotnet-sdk-8.0
       - dotnet-sdk-9.0
+      - fish
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
