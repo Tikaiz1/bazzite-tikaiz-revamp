@@ -27,6 +27,8 @@ modules:
       - gimp
       - vlc
       - mpv
+      - dotnet-sdk-8.0
+      - dotnet-sdk-9.0
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
