@@ -35,6 +35,9 @@ modules:
       - ripgrep
       - fd-find
       - nss-tools
+      - tesseract
+      - tesseract-langpack-eng
+      - tesseract-langpack-deu
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
