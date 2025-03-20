@@ -38,6 +38,7 @@ modules:
       - tesseract
       - tesseract-langpack-eng
       - tesseract-langpack-deu
+      - ghostty
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
